@@ -1,0 +1,26 @@
+body{
+    background-color: lightgoldenrodyellow;
+    color: indianred;
+}
+
+.container{
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    border: 1px solid indianred;
+}
+
+.ruby-box{
+    width: 40%;
+    padding: 5px;
+    margin: 7px;
+    border: 2px dotted indianred;
+}
+
+a{
+    text-align: left;
+}
+
+
+
